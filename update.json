@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "updates": [
+    "Added custom JSON update checker",
+    "Fixed UI lag in Settings page",
+    "Added Equalizer live curve visualization",
+    "Improved metadata extraction performance"
+  ]
+}
