@@ -89,7 +89,7 @@ Unlike bloated, streaming-first platforms, Apollo respects your original masters
 
 Apollo is currently in active development. 
 
-*   **Latest Release**: [Download ApolloSetup.exe](https://github.com/NJAC/Apollo/releases/latest)
+*   **Latest Release**: [Download Apollo Setup.exe](https://github.com/Nothing-Just-a-Code/Apollo/releases/latest)
 *   **System Requirements**: Windows 10 (version 19041) or Windows 11.
 
 *(Note: Source code will be made available in a future update.)*
@@ -110,7 +110,7 @@ We are constantly improving Apollo. Here is a glimpse of what is coming next:
 <div align="center">
   <p>Built with ❤️ by <strong>NJAC</strong></p>
   <p>
-    <a href="https://github.com/NJAC/Apollo/issues">Report a Bug</a> •
-    <a href="https://github.com/NJAC/Apollo/issues">Request a Feature</a>
+    <a href="https://github.com/Nothing-Just-a-Code/Apollo/issues">Report a Bug</a> •
+    <a href="https://github.com/Nothing-Just-a-Code/Apollo/issues">Request a Feature</a>
   </p>
 </div>
