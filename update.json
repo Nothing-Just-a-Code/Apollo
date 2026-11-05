@@ -1,9 +1,42 @@
 {
-  "version": "1.0.1",
-  "updates": [
-    "Added custom JSON update checker",
-    "Fixed UI lag in Settings page",
-    "Added Equalizer live curve visualization",
-    "Improved metadata extraction performance"
+  "latest_version": "2.0.0",
+  "download_url": "https://github.com/Nothing-Just-a-Code/Apollo/releases/latest",
+  "releases": [
+    {
+      "version": "v2.0.0",
+      "date": "October 28, 2026",
+      "is_latest": true,
+      "description": "Experience the biggest update yet. We've completely rebuilt the audio engine, introduced cloud sync, and added an adaptive UI that changes colors with your music.",
+      "tags": ["New Features", "Improved"],
+      "changelog": [
+        "Introduced Cloud Sync with audio.com integration.",
+        "Added AI Stem Separation for Karaoke mode.",
+        "Complete UI refresh with Adaptive Theme.",
+        "Reduced memory usage by 40% during library scanning."
+      ]
+    },
+    {
+      "version": "v1.4.2",
+      "date": "September 15, 2026",
+      "is_latest": false,
+      "description": "",
+      "tags": ["Bug Fixes"],
+      "changelog": [
+        "Fixed an issue where the app would freeze when seeking rapidly.",
+        "Resolved a memory leak in the visualizer.",
+        "Corrected file association errors on Windows 10."
+      ]
+    },
+    {
+      "version": "v1.4.0",
+      "date": "August 2, 2026",
+      "is_latest": false,
+      "description": "",
+      "tags": ["Improved"],
+      "changelog": [
+        "Added real-time wave visualizer with gradient fill.",
+        "Improved search performance for libraries over 50,000 tracks."
+      ]
+    }
   ]
 }
