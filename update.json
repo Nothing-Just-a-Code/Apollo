@@ -1,41 +1,23 @@
 {
-  "latest_version": "2.0.0",
+  "latest_version": "1.0.0",
   "download_url": "https://github.com/Nothing-Just-a-Code/Apollo/releases/latest",
   "releases": [
     {
-      "version": "v2.0.0",
-      "date": "October 28, 2026",
+      "version": "v1.0.0",
+      "date": "November 5, 2026",
       "is_latest": true,
-      "description": "Experience the biggest update yet. We've completely rebuilt the audio engine, introduced cloud sync, and added an adaptive UI that changes colors with your music.",
-      "tags": ["New Features", "Improved"],
+      "description": "Welcome to the very first release of Apollo. A modern, high-fidelity music player for Windows built for audiophiles and music lovers.",
+      "tags": ["Initial Release", "Stable", "Audiophile"],
       "changelog": [
-        "Introduced Cloud Sync with audio.com integration.",
-        "Added AI Stem Separation for Karaoke mode.",
-        "Complete UI refresh with Adaptive Theme.",
-        "Reduced memory usage by 40% during library scanning."
-      ]
-    },
-    {
-      "version": "v1.4.2",
-      "date": "September 15, 2026",
-      "is_latest": false,
-      "description": "",
-      "tags": ["Bug Fixes"],
-      "changelog": [
-        "Fixed an issue where the app would freeze when seeking rapidly.",
-        "Resolved a memory leak in the visualizer.",
-        "Corrected file association errors on Windows 10."
-      ]
-    },
-    {
-      "version": "v1.4.0",
-      "date": "August 2, 2026",
-      "is_latest": false,
-      "description": "",
-      "tags": ["Improved"],
-      "changelog": [
-        "Added real-time wave visualizer with gradient fill.",
-        "Improved search performance for libraries over 50,000 tracks."
+        "WASAPI Exclusive Mode for bit-perfect, unaltered audio playback.",
+        "Studio-grade DSP including a 10-band parametric Equalizer, Compressor, Limiter, Reverb, and Saturation.",
+        "Real-time FFT-driven water-wave audio visualizer.",
+        "Lightning-fast SQLite library database capable of handling 100,000+ tracks.",
+        "Auto-fetching word-by-word synced lyrics via the LRCLIB API.",
+        "Full Windows integration: System Media Transport Controls (SMTC) and media key support.",
+        "Smart File Association: Double-click any audio file to play instantly in the existing window.",
+        "Modern Liquid Glass UI with custom timeline, queue management, and dynamic music mode.",
+        "Persistent settings, play counts, and favorites tracking."
       ]
     }
   ]
