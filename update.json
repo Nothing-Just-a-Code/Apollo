@@ -1,11 +1,11 @@
 {
   "latest_version": "1.0.0",
-  "download_url": "https://github.com/Nothing-Just-a-Code/Apollo/releases/latest",
+  "download_url": "https://github.com/Nothing-Just-a-Code/Apollo/releases/download/1.0.1/Apollo.Setup.exe",
   "releases": [
     {
       "version": "v1.0.0",
       "date": "November 5, 2026",
-      "is_latest": true,
+      "is_latest": false,
       "description": "Welcome to the very first release of Apollo. A modern, high-fidelity music player for Windows built for audiophiles and music lovers.",
       "tags": ["Initial Release", "Stable", "Audiophile"],
       "changelog": [
@@ -18,6 +18,18 @@
         "Smart File Association: Double-click any audio file to play instantly in the existing window.",
         "Modern Liquid Glass UI with custom timeline, queue management, and dynamic music mode.",
         "Persistent settings, play counts, and favorites tracking."
+      ]
+    },
+    {
+      "version": "v1.0.1",
+      "date": "November 19, 2026",
+      "is_latest": true,
+      "description": "Apollo New Update",
+      "tags": ["Bug Fixes"],
+      "changelog": [
+        "Song playing issue fixed: when one song finished, the next one started randomly instead of the actual next song.",
+        "Issue fixed: when a song ended, the pause button didn't change to Play.",
+        "Some known bugs fixed.",
       ]
     }
   ]
