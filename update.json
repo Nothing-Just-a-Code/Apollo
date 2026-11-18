@@ -29,7 +29,7 @@
       "changelog": [
         "Song playing issue fixed: when one song finished, the next one started randomly instead of the actual next song.",
         "Issue fixed: when a song ended, the pause button didn't change to Play.",
-        "Some known bugs fixed.",
+        "Some known bugs fixed."
       ]
     }
   ]
